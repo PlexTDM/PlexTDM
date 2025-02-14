@@ -18,11 +18,6 @@
 - <span style="color: #9932cc;">I’m always looking for ways to make coding more fun and engaging through gamification.</span><br>
 - <span style="color: #00fa9a;">When I’m not coding, you’ll find me diving into game mechanics or experimenting with futuristic designs.</span><br>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Aphrodite)
- [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@https://que-fais-tu-uk6q.vercel.app/?fbclid=IwZXh0bgNhZW0CMTAAAR3NPikFgFTUgjgLYfPcERxyVc19y80RE1i9l0W3DXsQlF21dJpn6L50lq4_aem__Nr9SBcF9Z5hq57QYHMmNQ) 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/simo.nmny/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Aphrodite-612)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
