@@ -5,7 +5,7 @@
 - <span style="color: #32cd32;">Building solutions that challenge me to push my limits and learn new technologies.</span><br><br>
 
 📚 I’m currently learning:<br>
-- <span style="color: #dda0dd;">Rust, Dart, Flutter</span><br>
+- <span style="color: #dda0dd;">Rust, Dart, Flutter, Discord Bot</span><br>
 - <span style="color: #ff69b4;">Database management</span><br>
 
 🎉 Fun fact:<br>
